@@ -1,0 +1,26 @@
+
+.calc{
+  width: 400px;
+  height: 600px;
+  background: black;
+  margin-left: 200px;
+  border-radius: 10px;
+}
+#screen{
+  width: 80%;
+  margin-left: 36px;
+  height: 50px;
+  margin-top: 30px;
+  pointer-events: none;
+  background: rgb(83, 75, 75);
+}
+.btn{
+  width: 61px;
+  height: 41px;
+  margin-left: 25px;
+  margin-right: 0;
+  margin-top: 40px;
+  background-color:hwb(209 90% 1% / 0.705);
+  border-radius: 18px;
+ 
+}
